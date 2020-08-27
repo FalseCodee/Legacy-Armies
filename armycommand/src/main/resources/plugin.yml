@@ -1,0 +1,11 @@
+author: FalseCode
+name: ArmyCommand
+main: me.falsecode.armycommand.armycommand
+description: army list POG!
+version: 1.0
+depend:
+  - mcMMO
+commands:
+  army:
+  armys:
+  armies:
