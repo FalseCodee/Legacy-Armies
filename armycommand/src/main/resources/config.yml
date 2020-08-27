@@ -1,0 +1,8 @@
+
+#make sure to use all 4 variables:
+# - %num% rank in the list
+# - %army% army name
+# - %lvl% army level
+# - %leader% leaders name
+
+Message: '&7%num%: &e%army% &cLVL: %lvl% &6Leader: %leader%'
