@@ -1,0 +1,10 @@
+Schedule:
+  Diamonds:
+    Delay: 90
+    Offset: 0
+    1MinTime: Diamond Dropping in 1 Minute!
+    DiamondDrop: The Diamond has dropped!
+  Announcement:
+    Delay: 240
+    Offset: 120
+    Message: &cEdit it here Seraphim
